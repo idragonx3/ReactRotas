@@ -1,0 +1,13 @@
+.container-botao-voltar{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link-botao-voltar{
+    text-decoration: none;
+    color: black;
+    font-size: 64px;
+}    

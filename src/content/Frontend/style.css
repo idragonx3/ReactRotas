@@ -1,0 +1,14 @@
+.container-botao-front{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    border: 4px solid black;
+}
+
+.link-front-end{
+    text-decoration: none;
+    color: black;
+    font-size: 64px;
+}

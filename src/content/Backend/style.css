@@ -1,0 +1,13 @@
+.container-botao-back{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+}
+
+.link-back-end{
+    text-decoration: none;
+    color: black;
+    font-size: 64px;
+}

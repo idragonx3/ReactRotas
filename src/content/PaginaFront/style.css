@@ -1,0 +1,45 @@
+.container-pagina-front{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+
+.conteudo-pagina-front{
+    width: 500px;
+    height: 600px;
+    border: 4px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.conteudo-texto-front-end{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 4px solid black;
+
+}
+
+.conteudo-texto-front-end ul li{
+    list-style-type: none;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.botao-voltar-front-end{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
